@@ -1,2 +1,2 @@
-# 11 March 2024
-Here we go!
+# BookBot
+BookBot is the first project in [Boot.dev](boot.dev)'s back-end development path.
