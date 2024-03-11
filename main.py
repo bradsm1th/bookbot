@@ -17,4 +17,7 @@ def count_words(string):
     words = string.split()
     return len(words)
 
+def tot_up_letters(book_text_string -> str):
+    pass
+
 main()
